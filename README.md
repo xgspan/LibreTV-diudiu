@@ -3,7 +3,7 @@
 <div align="center">
   <img src="image/logo.png" alt="LibreTV Logo" width="120">
   <br>
-  <p><strong>自由观影，畅享精彩</strong></p>
+  <p><strong>官网地址~浏览器搜 ：  小怪兽 . vip</strong></p>
 </div>
 
 ## 📺 项目简介
